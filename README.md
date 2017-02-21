@@ -1,5 +1,5 @@
 # Exploratory_data_analysis_Emissions
-
+data downloaded from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
 My original par() setting for future reference
 $xlog
